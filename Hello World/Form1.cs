@@ -21,5 +21,10 @@ namespace Hello_World
         {
             MessageBox.Show("Hell0 W0rld");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
